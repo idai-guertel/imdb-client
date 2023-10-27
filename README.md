@@ -25,6 +25,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 1. Visiting ../task-1 or ../task-2 should present (after loading time) 10 movie image links with the right link targets. ✔
 2. Visiting none existing movie page (e.g..../task-1/1234) should present text saying page/movie could not be found. ✔
 3. If fetching yields unexpected response type, user should be redirected to error page. ✘
-4. If fetching times-out, user should be redirected to error page. ✘
+4. If fetching times-out, user should be redirected to error page. ✔
 5. When navigating to a movie page the window should be scrolled back to top. ✘
 6. UI accessibility tests (contrast, screen-readers, etc.). ✘
