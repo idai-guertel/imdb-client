@@ -7,10 +7,10 @@ It is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-a
 ```bash
 npm install
 ```
-2. Copy `.env.example` to `.env` and update variables:
+2. Copy `.env.example` to `.env.local` and update variables:
 
 ```bash
-cp .env.example .env
+cp .env.example .env.local
 ```
 
 3. Run the development server:
